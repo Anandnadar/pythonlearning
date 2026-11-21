@@ -1,8 +1,29 @@
+
 {
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter",
-        "editor.formatOnSave": true,
-        "editor.tabSize": 4,
-        "editor.insertSpaces": true
-    }
+        "editor.formatOnSave": true
+    },
+    "yaml.schemas": {
+        "file:///Users/apple/.vscode/extensions/docsmsft.docs-yaml-1.0.6/dist/toc.schema.json": "/toc\\.yml/i"
+    },
+    "redhat.telemetry.enabled": true,
+    "[github-actions-workflow]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.associations": {
+        "*.yaml": "yaml"
+    },
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.docx": "default"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.formatOnSave": true
 }

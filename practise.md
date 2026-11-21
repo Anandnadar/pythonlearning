@@ -1,11 +1,13 @@
 <!-- Python Assignment – 28 Programming Questions
-1. while loop
-No.	Program question
+1. while loop No.	Program question
+
 1	Write a Python program to print numbers from 1 to 50 using a while loop.
+
 2	Write a Python program to calculate the sum of numbers from 1 to 100 using a while loop.
 
-2. for loop
-No.	Program question
+
+2. for loop No.	Program question
+
 1	Write a Python program to print the multiplication table of a number entered by the user.
 2	Write a Python program to calculate the factorial of a number using a for loop.
 
